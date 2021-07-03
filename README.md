@@ -5,7 +5,7 @@
 ## I'm a senior year undergraduate student at P.E.S's Modern College of Engineering Pune-05.
 - 🌱 I’m currently exploring react-native.
 - 👯 I’m looking to collaborate with other robotics enthusiasts or web developers.
-- 🥅 2020 Goals: Contribute as much as possible to open source.
+- 🥅 2021 Goals: Get better and mobile development and contribute as much as possible to open source
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  Leonardo da Vinci drew up plans for an armored humanoid machine in 1495. Engineer Mark Rosheim has created a [functional miniature](https://www.wired.com/2004/11/davinci/) version for NASA to help colonize Mars.
 
@@ -48,6 +48,5 @@
 
 <img align="left" alt="Sushant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SushantSangle&show_icons=true&hide_border=true" />
 
-[website]: https://www.sushant.xyz/
 [twitter]: https://twitter.com/sushant_sangle1
 [linkedin]: https://www.linkedin.com/in/sushant-sangle1
