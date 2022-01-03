@@ -1,52 +1,42 @@
-### Hi there, I'm SushantSangle - aka [Sushant][website] 👋
+### Hi there, I'm Sushant Sangle 👋
 
-![Visitor Count](https://profile-counter.glitch.me/SushantSangle/count.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SushantSangle.SushantSangle)
 
-## I'm a senior year undergraduate student at P.E.S's Modern College of Engineering Pune-05.
-- 🌱 I’m currently exploring react-native.
-- 👯 I’m looking to collaborate with other robotics enthusiasts or web developers.
-- 🥅 2021 Goals: Get better and mobile development and contribute as much as possible to open source
+## I am a Computer Engineer Graduated in 2021
+- 🌱 I’m currently exploring react-native and native android.
+- 👯 I’m looking to collaborate with other robotics enthusiasts or Mobile app development.
+- 🥅 2022 Goals: Get better with mobile app development and contribute as much as possible to open source
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  Leonardo da Vinci drew up plans for an armored humanoid machine in 1495. Engineer Mark Rosheim has created a [functional miniature](https://www.wired.com/2004/11/davinci/) version for NASA to help colonize Mars.
 
 ### Connect with me:
 
-[<img align="left" alt="www.sushant.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SushanSangle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SushantSangle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Twitter - @13sushant4](https://img.shields.io/badge/Twitter-13sushant4-blue?logo=twitter&style=social&link=https://twitter.com/13sushant4&link=https://twitter.com/13sushant4)](https://twitter.com/13sushant4)
 
+[![Linked In - sushant-sangle1](https://img.shields.io/badge/LinkedIn-Sushant%20Sangle-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/sushant-sangle1/)](https://www.linkedin.com/in/sushant-sangle1/)
 <br />
 
-### Languages and Tools:
-<img align="left" alt="" width="26px" src="" />
-
-<img align="left" alt="C " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
-<img align="left" alt="cpp " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img align="left" alt="Android " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
-<img align="left" alt="HTML " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
-<img align="left" alt="CSS " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="nodejs " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="php " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" />
-<img align="left" alt="React " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="mongoDb" width="26px" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
-<img align="left" alt="sqlite" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
-<img align="left" alt="AWS " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Docker " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Latex " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="Linux " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Visual Studio Code " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub " width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="bash " width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
-<img align="left" alt="vim " width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-
+### ⚡ Technologies and Intrests:
+![C](https://img.shields.io/badge/Programming-brown?logo=c&style=for-the-badge&labelColor=black)
+![C++ ](https://img.shields.io/badge/Cpp-b0c0d0?style=for-the-badge&logo=cplusplus&labelColor=black)
+![Android](https://img.shields.io/badge/Android-72df7c?style=for-the-badge&logo=android&labelColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-8677fe?style=for-the-badge&logo=kotlin&labelColor=black)
+![Java](https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-e44e30?style=for-the-badge&logo=html5&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS-1a6fb4?style=for-the-badge&logo=css3&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-efd823?style=for-the-badge&logo=javascript&labelColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&labelColor=black&logo=typescript)
+![Flutter](https://img.shields.io/badge/Flutter-2a9bf1?style=for-the-badge&labelColor=black&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-2a9bf1?style=for-the-badge&labelColor=black&logo=dart)
+![React-Native](https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&labelColor=black&logo=react)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&labelColor=black&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2391e6?style=for-the-badge&labelColor=black&logo=docker)
+![Git](https://img.shields.io/badge/Git-e94e32?style=for-the-badge&labelColor=black&logo=git)
+![Bash](https://img.shields.io/badge/Bash-4a4e55?style=for-the-badge&labelColor=black&logo=gnubash)
+![Vim](https://img.shields.io/badge/Vim-4c9434?style=for-the-badge&labelColor=black&logo=vim)
+![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-cd4154?style=for-the-badge&labelColor=black&logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/Arduino-358284?style=for-the-badge&labelColor=black&logo=arduino)
 
 ---
 
-
-<img align="left" alt="Sushant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SushantSangle&show_icons=true&hide_border=true" />
-
-[twitter]: https://twitter.com/sushant_sangle1
-[linkedin]: https://www.linkedin.com/in/sushant-sangle1
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SushantSangle&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantSangle&hide=TeX&layout=compact)
