@@ -11,8 +11,8 @@
 ### Connect with me:
 
 [![Twitter - @13sushant4](https://img.shields.io/badge/Twitter-13sushant4-blue?logo=twitter&style=social&link=https://twitter.com/13sushant4&link=https://twitter.com/13sushant4)](https://twitter.com/13sushant4)
-
-[![Linked In - sushant-sangle1](https://img.shields.io/badge/LinkedIn-Sushant%20Sangle-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/sushant-sangle1/)](https://www.linkedin.com/in/sushant-sangle1/)
+[![Linked In - sushant-sangle1](https://img.shields.io/badge/LinkedIn-Sushant%20Sangle-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/sushant-sangle1/)](https://www.linkedin.com/in/sushant-sangle1/)
+[![gmail - 13sushants@gmail.com](https://img.shields.io/badge/Gmail-13sushants@gmail.com-ea4335?logo=gmail&style=flat&link=mailto:13sushants@gmail.com)](mailto:13sushants@gmail.com)
 <br />
 
 ### ⚡ Technologies and Intrests:
