@@ -11,11 +11,11 @@
 ### Connect with me:
 
 [![Twitter - @13sushant4](https://img.shields.io/badge/Twitter-13sushant4-blue?logo=twitter&style=social&link=https://twitter.com/13sushant4&link=https://twitter.com/13sushant4)](https://twitter.com/13sushant4)
-[![Linked In - sushant-sangle1](https://img.shields.io/badge/LinkedIn-Sushant%20Sangle-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/sushant-sangle1/)](https://www.linkedin.com/in/sushant-sangle1/)
-[![gmail - 13sushants@gmail.com](https://img.shields.io/badge/Gmail-13sushants@gmail.com-ea4335?logo=gmail&style=flat&link=mailto:13sushants@gmail.com)](mailto:13sushants@gmail.com)
+[![Linked In - sushant-sangle1](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white&link=https://www.linkedin.com/in/sushant-sangle1/)](https://www.linkedin.com/in/sushant-sangle1/)
+[![gmail - 13sushants@gmail.com](https://img.shields.io/badge/13sushants@gmail.com-ea4335?logo=gmail&style=flat&logoColor=white&link=mailto:13sushants@gmail.com)](mailto:13sushants@gmail.com)
 <br />
 
-### ⚡ Technologies and Intrests:
+### ⚡ Technologies and Interests:
 ![C](https://img.shields.io/badge/Programming-brown?logo=c&style=for-the-badge&labelColor=black)
 ![C++ ](https://img.shields.io/badge/Cpp-b0c0d0?style=for-the-badge&logo=cplusplus&labelColor=black)
 ![Android](https://img.shields.io/badge/Android-72df7c?style=for-the-badge&logo=android&labelColor=black)
