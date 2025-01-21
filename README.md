@@ -3,9 +3,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SushantSangle.SushantSangle)
 
 ## I am a Computer Engineer Graduated in 2021
-- 🌱 I’m currently exploring react-native and native android.
-- 👯 I’m looking to collaborate with other robotics enthusiasts or Mobile app development.
-- 🥅 2022 Goals: Get better with mobile app development and contribute as much as possible to open source
+- 🌱 I’m currently exploring Flutter and Native Android.
+- 👯 I’m looking to collaborate with other robotics enthusiasts or Mobile app developers.
 - 😄 Pronouns: He/Him
 
 ### Connect with me:
